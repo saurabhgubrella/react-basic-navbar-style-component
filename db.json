@@ -1,0 +1,84 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fname": "Leanne Graham",
+      "lname": "Bret",
+      "dob": "18/07/1987",
+      "profile": "React Developer",
+      "email": "Sincere@april.biz"
+    },
+    {
+      "id": 2,
+      "fname": "Ervin Howell",
+      "lname": "Antonette",
+      "dob": "19/07/1984",
+      "profile": "Organizer",
+      "email": "antonette@april.biz"
+    },
+    {
+      "id": 3,
+      "fname": "Clementine Bauch",
+      "lname": "Samantha",
+      "dob": "28/02/1989",
+      "profile": "Manager",
+      "email": "Nathan@yesenia.net"
+    },
+    {
+      "id": 4,
+      "fname": "Patricia Lebsack",
+      "lname": "Kamren",
+      "dob": "19/08/1992",
+      "profile": "Backend Developer",
+      "email": "Julianne.OConner@kory.org"
+    },
+    {
+      "id": 5,
+      "fname": "Chelsey Dietrich",
+      "lname": "Leopoldo_Corkery",
+      "dob": "02/12/1990",
+      "profile": "Full Stack Developer",
+      "email": "Lucio_Hettinger@annie.ca"
+    },
+    {
+      "id": 6,
+      "fname": "Mrs. Dennis Schulist",
+      "lname": "Karianne",
+      "dob": "10/02/1961",
+      "profile": "JAVA Developer",
+      "email": "Dennis.karianne@kory.org"
+    },
+    {
+      "id": 7,
+      "fname": "Kurtis Weissnat",
+      "lname": "Elwyn.Skiles",
+      "dob": "20/07/1991",
+      "email": "Kurtis.Skiles@kory.org",
+      "profile": "Software Engineer"
+    },
+    {
+      "id": 8,
+      "fname": "Clementina DuBuque",
+      "lname": "Moriah.Stanton",
+      "dob": "01/01/1988",
+      "email": "Rey.Padberg@karina.biz",
+      "profile":"QA"
+    },
+    {
+      "id": 9,
+      "fname": "Glenna Reichert",
+      "lname": "Delphine",
+      "dob": "31/12/1982",
+      "email": "Chaim_McDermott@dana.io",
+      "profile": "Angular Developer"
+    },
+    {
+      "id": 10,
+      "fname": "Nicholas Runolfsdottir V",
+      "lname": "Maxime_Nienow",
+      "dob": "01/08/1988",
+      "email": "Sherwood@rosamond.me",
+      "profile":"Frontend Developer"
+    }
+  ]
+}
